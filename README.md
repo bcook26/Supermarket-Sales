@@ -6,4 +6,4 @@ analysis of a supermarket sales dataset
 
 TLDR -> this is also visible within the notebook itself
 
- <img src="https://github.com/bcook26/Supermarket-Sales/blob/main/TLDR.png" width="400" height="600">
+ <img src="https://github.com/bcook26/Supermarket-Sales/blob/main/TLDR.png" width="600" height="600">
