@@ -5,4 +5,4 @@ analysis of a supermarket sales dataset
 - most profitable items/locations
 
 TLDR -> this is also visible within the notebook itself
-
+![Supermarket Synopsis](TLDR.png)
