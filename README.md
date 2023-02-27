@@ -5,4 +5,5 @@ analysis of a supermarket sales dataset
 - most profitable items/locations
 
 TLDR -> this is also visible within the notebook itself
- <img src="https://github.com/bcook26/Supermarket-Sales/blob/main/TLDR.png" width="250" height="250">
+
+ <img src="https://github.com/bcook26/Supermarket-Sales/blob/main/TLDR.png" width="400" height="600">
