@@ -1,7 +1,7 @@
 # Supermarket-Sales
 analysis of a supermarket sales dataset 
 - concentration of sales by city and state
-- best selling items
+- best selling items (category and sub-category)
 - most profitable items/locations
 
 TLDR -> this is also visible within the notebook itself
