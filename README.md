@@ -1,5 +1,6 @@
 # Supermarket-Sales
-analysis of a supermarket sales dataset 
+## Analysis of a Supermarket Sales Dataset
+### Full notebook located inside Retail Sales Forecast folder
 - concentration of sales by city and state
 - best selling items (category and sub-category)
 - most profitable items/locations
